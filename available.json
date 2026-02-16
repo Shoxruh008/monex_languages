@@ -5,49 +5,5 @@
     "nativeName": "French",
     "flagEmoji": "🇫🇷",
     "isDefault": false
-  },
-  {
-    "code": "de",
-    "name": "Deutsch",
-    "nativeName": "German",
-    "flagEmoji": "🇩🇪",
-    "isDefault": false
-  },
-  {
-    "code": "tr",
-    "name": "Türkçe",
-    "nativeName": "Turkish",
-    "flagEmoji": "🇹🇷",
-    "isDefault": false
-  },
-  {
-    "code": "ar",
-    "name": "العربية",
-    "nativeName": "Arabic",
-    "flagEmoji": "🇸🇦",
-    "isDefault": false
   }
 ]
-
-```
-
-## Boshqa Bepul Variantlar:
-
-### 2. **JSONBin.io** (API bilan)
-- 100% bepul tier
-- API key bilan kirish
-- https://jsonbin.io
-
-### 3. **Pastebin** (oddiy)
-- Raw text sifatida
-- https://pastebin.com
-
-### 4. **GitLab** (GitHub kabi)
-- Raw files
-- https://gitlab.com
-
-### 5. **jsDelivr CDN** (GitHub + CDN)
-- GitHub ni CDN orqali
-- Tezroq yuklanadi
-```
-https://cdn.jsdelivr.net/gh/username/repo@main/languages/fr.json
