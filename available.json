@@ -6,4 +6,11 @@
     "flagEmoji": "🇫🇷",
     "isDefault": false
   }
+  {
+    "code": "tr",
+    "name": "Türkçe",
+    "nativeName": "Turkish",
+    "flagEmoji": "🇹🇷",
+    "isDefault": false
+  }
 ]
