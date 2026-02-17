@@ -180,6 +180,16 @@
   "language_deleted": "Langue supprimée avec succès",
   "language_changed": "Langue changée avec succès",
   "language_settings_info": "Téléchargez des langues supplémentaires pour utiliser l'application dans votre langue préférée. Les langues téléchargées seront disponibles hors ligne.",
+    "installed_languages": "Langues installées",
+  "additional_languages": "Langues supplémentaires",
+  "clear_cache": "Vider le cache",
+  "clear_all": "Tout effacer",
+  "no_downloaded_languages": "Aucune langue téléchargée",
+  "clear_all_cache": "Vider tout le cache",
+  "clear_all_cache_confirmation": "Êtes-vous sûr de vouloir supprimer toutes les langues téléchargées ?",
+  "clear": "Effacer",
+  "cache_cleared": "Cache vidé",
+  "info": "Information"
   "home": {
     "title": "Vue d'ensemble",
     "userNotLoggedIn": "L'utilisateur n'est pas connecté",
