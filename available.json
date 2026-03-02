@@ -12,5 +12,12 @@
     "nativeName": "Turkish",
     "flagEmoji": "🇹🇷",
     "isDefault": false
+  },
+  {
+    "code": "ko",
+    "name": "한국어",
+    "nativeName": "Korean",
+    "flagEmoji": "🇰🇷",
+    "isDefault": false
   }
 ]
