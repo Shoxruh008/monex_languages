@@ -497,6 +497,11 @@
     "expense": "지출"
   },
   "comments": {
+    "no_selected_comment": "선택된 댓글이 없습니다",
+    "comment": "댓글",
+    "sort_top": "인기",
+    "sort_new": "최신",
+    "sort_mine": "내 댓글",
     "no_my_comments": "아직 작성한 댓글이 없습니다",
     "write_first": "첫 댓글을 남겨보세요",
     "app_comments": "앱 댓글",
