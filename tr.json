@@ -497,6 +497,11 @@
     "expense": "Gider"
   },
   "comments": {
+    "no_selected_comment": "Seçilmiş yorum yok",
+    "comment": "Yorum",
+    "sort_top": "En iyi",
+    "sort_new": "Yeni",
+    "sort_mine": "Benim",
     "no_my_comments": "Henüz yorum yapmadınız",
     "write_first": "İlk yorumu yapın",
     "app_comments": "Uygulama Yorumları",
