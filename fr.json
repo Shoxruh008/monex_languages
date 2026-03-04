@@ -497,6 +497,11 @@
     "expense": "Dépense"
   },
   "comments": {
+    "no_selected_comment": "Aucun commentaire sélectionné",
+    "comment": "Commentaire",
+    "sort_top": "Populaire",
+    "sort_new": "Nouveau",
+    "sort_mine": "Les miens",
     "no_my_comments": "Vous n'avez pas encore publié de commentaires",
     "write_first": "Soyez le premier à commenter",
     "app_comments": "Commentaires de l'application",
